@@ -1,0 +1,4 @@
+customerID,name,salary
+101,Alice,500
+102,Bob,300
+103,Charlie
